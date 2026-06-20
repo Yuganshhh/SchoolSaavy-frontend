@@ -1,3 +1,4 @@
+// SchoolSaavy Main Application Component
 import { useState, useEffect, useCallback } from "react";
 
 var API = "https://schoolsaavy-backend-updated.onrender.com/api";
